@@ -1,0 +1,26 @@
+Restaurant Name,City,Cuisines,Price range,Aggregate rating,Votes,Similarity,Request
+Satvik Rasoi,New Delhi,North Indian,2,3.8,31,0.999,['north indian'] price 2
+Kamal's,New Delhi,North Indian,2,3.7,286,0.998,['north indian'] price 2
+Prem Dhaba,New Delhi,North Indian,2,3.7,177,0.998,['north indian'] price 2
+Chowki,New Delhi,North Indian,2,3.7,89,0.998,['north indian'] price 2
+Anand Restaurant,New Delhi,North Indian,2,3.6,485,0.998,['north indian'] price 2
+Happy Hakka,New Delhi,Chinese,2,4.1,173,0.999,['chinese'] price 2
+Ding Ding,New Delhi,Chinese,2,3.9,93,0.999,['chinese'] price 2
+Casa Asia,New Delhi,Chinese,2,3.8,306,0.999,['chinese'] price 2
+Wok On Wheels,New Delhi,Chinese,2,3.8,80,0.999,['chinese'] price 2
+Chimney Sizzlers,New Delhi,Chinese,2,3.7,137,0.998,['chinese'] price 2
+Amalfi,New Delhi,Italian,3,3.9,484,0.999,['italian'] price 3
+28 Capri Italy,New Delhi,Italian,3,3.9,245,0.999,['italian'] price 3
+The Coffee Shop,New Delhi,"Cafe, Italian",3,4.4,326,0.794,['italian'] price 3
+Summer House Cafe,New Delhi,"Italian, Continental",3,4.1,1823,0.793,['italian'] price 3
+Bonne Bouche,New Delhi,"Italian, French",3,4.1,711,0.793,['italian'] price 3
+Starbucks,��stanbul,Cafe,2,4.9,1042,1.0,['cafe'] price 2
+The Basement Caf��,Guwahati,Cafe,2,4.7,126,1.0,['cafe'] price 2
+Dem Karak�_y,��stanbul,Cafe,2,4.5,761,1.0,['cafe'] price 2
+The Breakfast Story,Nagpur,Cafe,2,4.5,520,1.0,['cafe'] price 2
+Truth Coffee,Cape Town,Cafe,2,4.4,514,1.0,['cafe'] price 2
+Gulati,New Delhi,"North Indian, Mughlai",3,4.4,4373,1.0,"['north indian', 'mughlai'] price 3"
+Punjab Grill,New Delhi,"North Indian, Mughlai",3,4.2,1971,1.0,"['north indian', 'mughlai'] price 3"
+Desi Vibes,New Delhi,"North Indian, Mughlai",3,4.0,183,0.999,"['north indian', 'mughlai'] price 3"
+Veda,New Delhi,"North Indian, Mughlai",3,3.9,1087,0.999,"['north indian', 'mughlai'] price 3"
+Zaffran,New Delhi,"North Indian, Mughlai",3,3.9,908,0.999,"['north indian', 'mughlai'] price 3"
